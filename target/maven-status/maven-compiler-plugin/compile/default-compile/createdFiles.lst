@@ -1,0 +1,9 @@
+com\gm\BankXApp\util\NotificationService.class
+com\gm\BankXApp\model\Account.class
+com\gm\BankXApp\model\Transaction.class
+com\gm\BankXApp\model\AccountType.class
+com\gm\BankXApp\model\Customer.class
+com\gm\BankXApp\dataTransferObject\BankZTransactionRequest.class
+com\gm\BankXApp\repository\TransactionRepository.class
+com\gm\BankXApp\controller\WebController.class
+com\gm\BankXApp\model\TransactionType.class
